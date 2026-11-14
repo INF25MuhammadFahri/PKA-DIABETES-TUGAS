@@ -1,0 +1,6 @@
+Preprocessing;Accuracy_KNN_K5 (%);Accuracy_KNN_GridSearch (%);Best_K_GridSearch;Best_Weight_GridSearch;Best_Metric_GridSearch
+Copy 1 — Raw (No Preprocessing);72,08;74,03;30;distance;euclidean
+Copy 2 — KNN Imputation;74,03;73,38;17;distance;euclidean
+Copy 3 — Mean Imputation (Global);75,32;73,38;17;distance;euclidean
+Copy 4 — Median Imputation (Global);75,32;74,68;17;distance;euclidean
+Copy 5 — Median Per Class;82,47;85,06;17;distance;manhattan
